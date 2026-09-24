@@ -1,0 +1,25 @@
+{
+  "latest": "4",
+  "versions": [
+    {
+      "version": "1",
+      "label": "Phonkky Jumper v1",
+      "url": "https://raw.githubusercontent.com/limconfak/Phonkky-Jumper/main/phonkky-jumper-1.html"
+    },
+    {
+      "version": "2",
+      "label": "Phonkky Runner v2",
+      "url": "https://raw.githubusercontent.com/limconfak/Phonkky-Jumper/main/phonkky-runner%20(1).html"
+    },
+    {
+      "version": "3",
+      "label": "Phonkky Runner v4",
+      "url": "https://raw.githubusercontent.com/limconfak/Phonkky-Jumper/main/phonkky-runner-4.html"
+    },
+    {
+      "version": "4",
+      "label": "Phonkky Runner v5",
+      "url": "https://raw.githubusercontent.com/limconfak/Phonkky-Jumper/main/phonkky-runner-5.html"
+    }
+  ]
+}
